@@ -1,6 +1,6 @@
 {
-    "name": "kangwon_bus",
-    "short_name": "kangwon_bus",
+    "name": "gomdori_bus",
+    "short_name": "gomdori_bus",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
